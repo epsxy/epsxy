@@ -1,1 +1,1 @@
-![Gradient vector](gradient.jpg)
+![Gradient vector](https://github.com/epsxy/epsxy/blob/master/gradient.jpg)
